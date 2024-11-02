@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\MAHARJANA\Desktop\ETSU\3rd Semester\Capstone Project - RMIPSS\SpendTracker\SpendTracker
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/MAHARJANA/Desktop/ETSU/3rd Semester/Capstone Project - RMIPSS/SpendTracker/SpendTracker/Views/Home/CreateEditExpense.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVFZGl0RXhwZW5zZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MAHARJANA/Desktop/ETSU/3rd Semester/Capstone Project - RMIPSS/SpendTracker/SpendTracker/Views/Home/Expenses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFeHBlbnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MAHARJANA/Desktop/ETSU/3rd Semester/Capstone Project - RMIPSS/SpendTracker/SpendTracker/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

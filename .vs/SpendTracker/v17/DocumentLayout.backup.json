@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MAHARJANA\\Desktop\\ETSU\\3rd Semester\\Capstone Project - RMIPSS\\SpendTracker\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1296C6-192A-44D5-A93B-B446E5763715}|SpendTracker\\SpendTracker.csproj|c:\\users\\maharjana\\desktop\\etsu\\3rd semester\\capstone project - rmipss\\spendtracker\\spendtracker\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E1296C6-192A-44D5-A93B-B446E5763715}|SpendTracker\\SpendTracker.csproj|solutionrelative:spendtracker\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1296C6-192A-44D5-A93B-B446E5763715}|SpendTracker\\SpendTracker.csproj|c:\\users\\maharjana\\desktop\\etsu\\3rd semester\\capstone project - rmipss\\spendtracker\\spendtracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1296C6-192A-44D5-A93B-B446E5763715}|SpendTracker\\SpendTracker.csproj|solutionrelative:spendtracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1296C6-192A-44D5-A93B-B446E5763715}|SpendTracker\\SpendTracker.csproj|c:\\users\\maharjana\\desktop\\etsu\\3rd semester\\capstone project - rmipss\\spendtracker\\spendtracker\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E1296C6-192A-44D5-A93B-B446E5763715}|SpendTracker\\SpendTracker.csproj|solutionrelative:spendtracker\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEditExpense.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHARJANA\\Desktop\\ETSU\\3rd Semester\\Capstone Project - RMIPSS\\SpendTracker\\SpendTracker\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeDocumentMoniker": "SpendTracker\\Views\\Home\\CreateEditExpense.cshtml",
+              "ToolTip": "C:\\Users\\MAHARJANA\\Desktop\\ETSU\\3rd Semester\\Capstone Project - RMIPSS\\SpendTracker\\SpendTracker\\Views\\Home\\CreateEditExpense.cshtml",
+              "RelativeToolTip": "SpendTracker\\Views\\Home\\CreateEditExpense.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T16:55:30.217Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MAHARJANA\\Desktop\\ETSU\\3rd Semester\\Capstone Project - RMIPSS\\SpendTracker\\SpendTracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SpendTracker\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MAHARJANA\\Desktop\\ETSU\\3rd Semester\\Capstone Project - RMIPSS\\SpendTracker\\SpendTracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SpendTracker\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:46:33.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Expenses.cshtml",
+              "DocumentMoniker": "C:\\Users\\MAHARJANA\\Desktop\\ETSU\\3rd Semester\\Capstone Project - RMIPSS\\SpendTracker\\SpendTracker\\Views\\Home\\Expenses.cshtml",
+              "RelativeDocumentMoniker": "SpendTracker\\Views\\Home\\Expenses.cshtml",
+              "ToolTip": "C:\\Users\\MAHARJANA\\Desktop\\ETSU\\3rd Semester\\Capstone Project - RMIPSS\\SpendTracker\\SpendTracker\\Views\\Home\\Expenses.cshtml",
+              "RelativeToolTip": "SpendTracker\\Views\\Home\\Expenses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T16:43:21.467Z",
+              "EditorCaption": ""
             }
           ]
         }
